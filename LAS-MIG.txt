@@ -1,0 +1,15 @@
+MAJEK – FILER FÖR GITHUB OCH WEBBHOTELL
+
+Ladda upp hela innehållet, inklusive assets och samtliga HTML-filer. index.html ska ligga i webbplatsens rot. Ingen installation eller byggprocess behövs.
+
+För GitHub Pages: publicera från den gren och mapp där index.html ligger. Alla interna länkar fungerar även i en projektmapp.
+
+Kanoniska adresser, sitemap och sökmetadata är förberedda för https://majek.se. Ändra domänen i HTML-filerna, robots.txt och sitemap.xml om webbplatsen ska ligga på en annan permanent adress.
+
+Telefon- och mejlknappar fungerar direkt. Kontaktguiden öppnar ett mejlutkast i besökarens mejlapp; den skickar inte automatiskt.
+
+Vid ersättning av nuvarande webbplats: ordna 301-omdirigeringar från /om-majek/ till /om-oss.html, /entreprenad-goteborg/ till /entreprenad.html, /bygg-service/ till /byggservice.html, /underentreprenad/ till /underentreprenad.html och /kontakta-oss/ till /kontakt.html.
+
+Kundcitat kommer från omdömen på företagets befintliga webbplats. Inget påhittat snittbetyg används. Fotografierna kommer från Majeks egna publicerade projekt. Ingen video hittades.
+
+Kontrollerad på dator och mobil, inklusive 320 px bredd. SEO-grunder finns i koden; synlighet och placering hos Google kan inte garanteras.
